@@ -1,0 +1,14 @@
+fieldset {
+    margin: auto;
+    margin-top: 100px;
+    width: 50%;
+}
+
+table {
+    width: 100%;
+    margin-top: 10px;
+}
+
+table tr th {
+    padding-top: 20px;
+}
